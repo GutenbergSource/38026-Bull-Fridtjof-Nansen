@@ -1,0 +1,38 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="91252" filedate="2011-03-18 20:27:34" width="508px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2010-02-11 21:03:56" width="12px" height="12px">
+</image>
+<image path="images/map.gif" filesize="53869" filedate="2011-03-18 20:32:11" width="720px" height="472px">
+</image>
+<image path="images/maph.gif" filesize="232027" filedate="2011-03-18 20:33:11" width="1600px" height="1049px">
+</image>
+<image path="images/p003.jpg" filesize="129818" filedate="2011-11-14 18:56:17" width="720px" height="561px">
+</image>
+<image path="images/p021.jpg" filesize="49942" filedate="2011-11-14 18:58:30" width="387px" height="579px">
+</image>
+<image path="images/p043.jpg" filesize="95465" filedate="2011-11-14 19:03:10" width="487px" height="720px">
+</image>
+<image path="images/p047.jpg" filesize="94040" filedate="2011-11-14 19:10:52" width="615px" height="467px">
+</image>
+<image path="images/p056.jpg" filesize="83397" filedate="2011-11-14 19:13:58" width="489px" height="599px">
+</image>
+<image path="images/p064.jpg" filesize="89872" filedate="2011-11-14 19:16:10" width="639px" height="456px">
+</image>
+<image path="images/p068.jpg" filesize="95125" filedate="2011-11-14 19:18:29" width="622px" height="451px">
+</image>
+<image path="images/p085.jpg" filesize="77034" filedate="2011-11-14 19:27:30" width="720px" height="469px">
+</image>
+<image path="images/p095.jpg" filesize="90432" filedate="2011-11-14 19:37:28" width="720px" height="436px">
+</image>
+<image path="images/p110.jpg" filesize="89437" filedate="2011-11-14 19:41:41" width="678px" height="495px">
+</image>
+<image path="images/p125.jpg" filesize="59993" filedate="2011-11-14 19:47:31" width="720px" height="453px">
+</image>
+<image path="images/titlepage.gif" filesize="10287" filedate="2011-03-18 20:38:08" width="474px" height="720px">
+</image>
+</images>
